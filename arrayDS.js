@@ -21,4 +21,4 @@ strings.splice(2,0,'alien')
 console.log(strings)
 
 
-// reference type
+
