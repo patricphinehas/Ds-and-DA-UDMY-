@@ -21,7 +21,6 @@ function twosum(nums, target) {
         else{
             // console.log("pushed")
             remainingArray.push(nums[i])
-            
         }
 
     }
